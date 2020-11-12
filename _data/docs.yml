@@ -6,6 +6,18 @@
   - team-abstract
 #  - team
 
+- title: Trust | Legal
+  docs:
+  - terms-and-conditions
+  - privacy-policy
+  - end-user-license-agreement
+
+- title: Quickstart
+  docs:
+  - quickstart-guide
+  - tutorial
+  - api-reference-manual
+
 - title: FAQs
   docs:
   - full-deck
