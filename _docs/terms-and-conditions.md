@@ -9,5 +9,6 @@ Last Modified: 12-11-2020 14:58 PST
 
 ----
 Terms and conditions:
+기업 고객을 위한 T&C 입니다.
 
 Please contact us at <a href="mailto:admin@monoly.com">this email</a> for more information. 
