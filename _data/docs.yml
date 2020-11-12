@@ -1,0 +1,30 @@
+- title: Teaser Deck
+  docs:
+  - home
+  - root-cause 
+  - solution
+  - team-abstract
+#  - team
+
+- title: FAQs
+  docs:
+  - full-deck
+  - patent
+  - fund-raising
+  - contact
+
+# - title: Coming Soon
+#  docs:
+#  - white-paper
+#  - demo-youtube
+
+# - title: Getting Started
+#   docs:
+#   - themes
+#   - customization
+
+# - title: Examples
+#   docs:
+#   - cheatsheet
+#   - font-awesome
+#   - bootstrap
