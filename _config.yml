@@ -33,11 +33,11 @@ exclude:
 timezone: Europe/Berlin
 defaults:
 - scope:
-    path: _posts
+    path: _articles
     type: posts
   values:
     layout: post
-    sectionid: blog
+    sectionid: articles
 
 - scope:
     path: _docs
