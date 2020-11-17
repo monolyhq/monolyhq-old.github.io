@@ -10,7 +10,7 @@ Last Modified: 15-02-2020 14:58 PST
 ----
 
 <br><br>
-![Image Alt text]({{"/assets/img/oursolution.png"| relative_url}})
+![Image Alt text]({{"/assets/img/oursolution2.png"| relative_url}})
 <br>
 
 <!--In the previous page, we explored the existing approaches and their limitation. 
