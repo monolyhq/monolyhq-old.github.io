@@ -1,5 +1,5 @@
 ---
-title: Monoly: Most Trustworthy Communication
+title: Most Trustworthy Communication, Monoly
 permalink: /docs/most-trustworthy/
 ---
 Author: <a href="mailto:admin@monoly.com">Monoly</a>
