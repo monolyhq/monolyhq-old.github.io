@@ -1,5 +1,5 @@
 ---
-title: Monoly: Truly Productive Communication
+title: Truly Productive Communication, Monoly
 permalink: /docs/truly-productive/
 ---
 Author: <a href="mailto:admin@monoly.com">Monoly</a>
