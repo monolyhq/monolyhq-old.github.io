@@ -156,4 +156,4 @@ Last Modified: 12-11-2020 14:58 PST
 
 
 
-Please contact us at <a href="mailto:admin@monoly.com">this email</a> for more information. 
+Please contact us at <a href="mailto:contact@monoly.com">this email</a> for more information. 
