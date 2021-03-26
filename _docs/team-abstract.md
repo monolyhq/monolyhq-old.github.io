@@ -18,7 +18,9 @@ Last Modified: 15-02-2020 14:58 PST
 ### Kiwoon Sung (성기운)
 #### Founder and CEO
 - Former Head of Blockchain Research Lab, Samsung SDS
-- Computer Science at Columbia University in the City of New York
+- Former Visiting Scholar at Georgia Institute of Technology
+- MS in Computer Science from Columbia University in the City of New York
+- BS in Computer Science from Korea University
 <br>
 <br>
 <br>
@@ -26,10 +28,10 @@ Last Modified: 15-02-2020 14:58 PST
 
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 
-### Sangbum Ricky Kim
+### Sangbum Ricky Kim (김상범)
 #### Co-founder and CTO
 - Former Principal Engineer and Scrum Leader, Development Center, Samsung SDS
-- Computer Science at Seoul National University
+- MS in Computer Science from Seoul National University
 <br>
 <br>
 <br>
@@ -39,7 +41,7 @@ Last Modified: 15-02-2020 14:58 PST
 ### Alexander Jonghoon Keum (금종훈)
 #### Co-founder and CBO (Business)
 - Former Consultant at A.T. Kearney, Ernst & Young and IBM GBS
-- Economics at Columbia University in the City of New York
+- BS in Economics from Columbia University in the City of New York
 <br>
 <br>
 <br>
@@ -49,7 +51,8 @@ Last Modified: 15-02-2020 14:58 PST
 ### Spencer Yoonho Kim (김윤호)
 #### Co-founder and CPO (Product)
 - Former Researcher at Korea Development Institute and UNDP
-- International Policy at Stanford University
+- MA in International Policy from Stanford University
+- Bachelor of Business Administration from Yonsei University
 <br>
 <br>
 <br>
@@ -60,6 +63,7 @@ Last Modified: 15-02-2020 14:58 PST
 #### 25 full-time and part-time team members in Seoul, Deli and San Francisco
 - Developers
 - Designers
+- Operations staffs
 <br>
 <br>
 <br>
@@ -69,10 +73,12 @@ ____
 ## Board of Directors
 <br>
 #### J. Chang
- President and Managing Partner, a top-tier global management consulting firm
- Wharton MBA, University of Pennsylvania
-
+- President and Managing Partner, a top-tier global management consulting firm
+- Wharton MBA, University of Pennsylvania
+<br>
 <br>
 #### K. Chang
-#### CEO of private equity firm and running various amazing businesses
+- CEO of private equity firm and running various amazing businesses
+<br>
+<br>
 
