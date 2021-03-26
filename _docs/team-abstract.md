@@ -54,6 +54,16 @@ Last Modified: 15-02-2020 14:58 PST
 <br>
 <br>
 
+
+![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
+### All members
+#### 25 full-time and part-time team members in Seoul, Deli and San Francisco
+- Developers
+- Designers
+<br>
+<br>
+<br>
+
 ____
 
 ## Board of Directors
