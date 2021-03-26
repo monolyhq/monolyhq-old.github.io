@@ -10,16 +10,14 @@ Last Modified: 15-02-2020 14:58 PST
 ----
 
 ## Team Monoly
-The individual's full names were deliberately removed.
 <br>
 <br>
 <br>
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 
-### K
-#### Founder and CEO
-#### Head of Technology
-- Core technology R&D for real-time multimedia P2P networking 
+### Kiwoon Sung (성기운)
+#### Co-founder and CEO
+- Former Head of Blockchain Research Lab, Samsung SDS
 - MS in Computer Science, Columbia University in the City of New York
 <br>
 <br>
@@ -27,10 +25,20 @@ The individual's full names were deliberately removed.
 
 
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
+
+### Sangbum Ricky Kim
+#### Co-founder and CTO
+- Former Principal Engineer and Scrum Leader, Development Center, Samsung SDS
+- MS in Computer Science, Seoul National University
+<br>
+<br>
+<br>
+
+
+![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 ### Alex
-#### Co-founder and COO
-#### Head of Business Development
-- Strategy and management consulting for large enterprises
+#### Co-founder and CBO (Business)
+- IBM, AT Kearney
 - BS in Economics, Columbia University in the City of New York
 <br>
 <br>
@@ -39,9 +47,8 @@ The individual's full names were deliberately removed.
 
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 ### Spencer
-#### Co-founder and CPO
-#### Head of Research
-- Research at a government think tank in South Korea
+#### Co-founder and CPO (Product)
+- Korea Development Institute
 - MA in International Policy, Stanford University
 <br>
 <br>
@@ -53,7 +60,7 @@ Ongoing discussion to join
 <br>
 
 <br>
-#### A.
+#### J.
  President and Managing Partner, a top-tier global management consulting firm
  Wharton MBA, University of Pennsylvania
 
