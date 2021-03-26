@@ -2,7 +2,7 @@
 title: Team & Advisory
 permalink: /docs/team-abstract/
 ---
-Author: <a href="mailto:admin@monoly.com">Monoly</a>
+Author: <a href="mailto:contact@monoly.com">Monoly</a>
 <br>
 Last Modified: 15-02-2020 14:58 PST
 <br>
@@ -16,9 +16,9 @@ Last Modified: 15-02-2020 14:58 PST
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 
 ### Kiwoon Sung (성기운)
-#### Co-founder and CEO
+#### Founder and CEO
 - Former Head of Blockchain Research Lab, Samsung SDS
-- MS in Computer Science, Columbia University in the City of New York
+- Computer Science at Columbia University in the City of New York
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@ Last Modified: 15-02-2020 14:58 PST
 ### Sangbum Ricky Kim
 #### Co-founder and CTO
 - Former Principal Engineer and Scrum Leader, Development Center, Samsung SDS
-- MS in Computer Science, Seoul National University
+- Computer Science at Seoul National University
 <br>
 <br>
 <br>
@@ -38,8 +38,8 @@ Last Modified: 15-02-2020 14:58 PST
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 ### Alex
 #### Co-founder and CBO (Business)
-- IBM, AT Kearney
-- BS in Economics, Columbia University in the City of New York
+- Former Consultant at A.T. Kearney, Ernst & Young and IBM GBS
+- Economics at Columbia University in the City of New York
 <br>
 <br>
 <br>
@@ -48,8 +48,8 @@ Last Modified: 15-02-2020 14:58 PST
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
 ### Spencer
 #### Co-founder and CPO (Product)
-- Korea Development Institute
-- MA in International Policy, Stanford University
+- Former Researcher at Korea Development Institute and UNDP
+- International Policy at Stanford University
 <br>
 <br>
 <br>
@@ -60,12 +60,12 @@ Ongoing discussion to join
 <br>
 
 <br>
-#### J.
+#### J. Chang
  President and Managing Partner, a top-tier global management consulting firm
  Wharton MBA, University of Pennsylvania
 
 <br>
-#### M.
+#### M. Choi
 - Corporate counsel at a top-tier company 
 - JD, Case Western Reserve University (Attorney, New York)
 
@@ -73,7 +73,7 @@ Ongoing discussion to join
 ### Will propose to join
 
 <br>
-#### J.
+#### J. 
 - CEO, a patent office
 - MS, Seoul National University (Patent Attorney, Korea)
 
