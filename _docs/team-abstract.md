@@ -68,17 +68,26 @@ Last Modified: 15-02-2020 14:58 PST
 <br>
 <br>
 
-____
 
 ## Board of Directors
 <br>
+![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
+<br>
+
 #### J. Chang
 - President and Managing Partner, a top-tier global management consulting firm
 - Wharton MBA, University of Pennsylvania
 <br>
-<br>
+
+![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
+
 #### K. Chang
 - CEO of private equity firm and running various amazing businesses
-<br>
-<br>
+
+#### Kiwoon Sung
+- CEO of Monoly
+____
+
+
+
 
