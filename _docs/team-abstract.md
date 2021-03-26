@@ -36,7 +36,7 @@ Last Modified: 15-02-2020 14:58 PST
 
 
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
-### Alex
+### Alexander Jonghoon Keum (금종훈)
 #### Co-founder and CBO (Business)
 - Former Consultant at A.T. Kearney, Ernst & Young and IBM GBS
 - Economics at Columbia University in the City of New York
@@ -46,7 +46,7 @@ Last Modified: 15-02-2020 14:58 PST
 
 
 ![Image Alt text]({{"/assets/img/person-icon.png"| relative_url}})
-### Spencer
+### Spencer Yoonho Kim (김윤호)
 #### Co-founder and CPO (Product)
 - Former Researcher at Korea Development Institute and UNDP
 - International Policy at Stanford University
@@ -55,38 +55,14 @@ Last Modified: 15-02-2020 14:58 PST
 <br>
 
 ____
-## Mentor (tentative advisory pool)
-Ongoing discussion to join
-<br>
 
+## Board of Directors
 <br>
 #### J. Chang
  President and Managing Partner, a top-tier global management consulting firm
  Wharton MBA, University of Pennsylvania
 
 <br>
-#### M. Choi
-- Corporate counsel at a top-tier company 
-- JD, Case Western Reserve University (Attorney, New York)
+#### K. Chang
+#### CEO of private equity firm and running various amazing businesses
 
-<br>
-### Will propose to join
-
-<br>
-#### J. 
-- CEO, a patent office
-- MS, Seoul National University (Patent Attorney, Korea)
-
-<br>
-#### H.
-- Former CTO at a top-tier U.S. company
-
-<br>
-#### F.
-- Professor at a prestigious university in the U.S.
-- PhD, Georgia Tech
-
-<br>
-#### F.
-- Professor at a prestigious university in the U.S.
-- PhD, Harvard University
