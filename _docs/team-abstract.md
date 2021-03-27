@@ -32,6 +32,7 @@ Last Modified: 15-02-2020 14:58 PST
 #### Co-founder and CTO
 - Former Principal Engineer and Scrum Leader, Development Center, Samsung SDS
 - MS in Computer Science from Seoul National University
+- BS in Computer Science from Seoul National University
 <br>
 <br>
 <br>
