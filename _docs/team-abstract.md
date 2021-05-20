@@ -85,8 +85,6 @@ Last Modified: 15-02-2020 14:58 PST
 #### K. Chang
 - CEO of private equity firm and running various amazing businesses
 
-#### Kiwoon Sung
-- CEO of Monoly
 ____
 
 
